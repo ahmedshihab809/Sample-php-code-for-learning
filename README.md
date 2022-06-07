@@ -1,2 +1,2 @@
 #MyApp
-Barely touchedproject in College
+Barely touched project in College
